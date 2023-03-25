@@ -67,3 +67,9 @@ START=npm run start
 # Aqui será o comando para executar sua aplicação, Esse dado não precisa modificar, pode mantê-lo assim
 
 ```
+
+Agora é só você hospedar o seu webhook na Square Cloud ou em qualquer outro site, pegar o link dele e adicionar ao seu bot.
+
+Execute o comando /configurar e vá em |🪝 Add Webhook| e depois vá em |➕ Add/Edit Webhook V2| e cole o link do seu webhook seguido de |v1/owlivery/catch|
+
+> Exemplo: https://owlivery-public.squareweb.app/v1/owlivery/catch
