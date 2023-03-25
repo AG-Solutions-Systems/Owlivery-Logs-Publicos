@@ -1,4 +1,4 @@
-DISPLAY_NAME=Owlivery Public Log
+DISPLAY_NAME=Owlivery Public Log 
 DESCRIPTION=API de logs Públicas
 MAIN=app.js
 MEMORY=512
